@@ -1,6 +1,7 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Sistema desenvolvida como atividade do mMódulo 2 do Curso Desenvolvimento WEB. 
+Talento  Tech Paraná
 
 ## Getting Started
 
